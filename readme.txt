@@ -84,3 +84,4 @@ DPD: http://extranet.dpd.de/cgi-bin/delistrack?typ=1&lang=de&pknr=[##TRKID##]
 Hermes: http://tracking.hlg.de/Tracking.jsp?TrackID=[##TRKID##]
 UPS: http://wwwapps.ups.com/WebTracking/processRequest?HTMLVersion=5.0&Requester=NES&AgreeToTermsAndConditions=yes&loc=de_DE&tracknum=[##TRKID##]
 USPS: http://trkcnfrm1.smi.usps.com/PTSInternetWeb/InterLabelInquiry.do?origTrackNum=[##TRKID##]
+ray
